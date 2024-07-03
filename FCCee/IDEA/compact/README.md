@@ -14,5 +14,4 @@ Based on o1_v01 but with a detailed description of the vertex detector and the d
 IDEA_o1_v03
 ------------
 
-Based on o1_v02 but replacing the drift chamber (o1, v01) for the lightweight implementation based on twisted tubes (o1, v02). Production threshold and step limit physics have to be tuned
-
+Based on o1_v02 but replacing the drift chamber (o1, v01) for the lightweight implementation based on twisted tubes (o1, v02). Production threshold and step limit physics have to be tuned. The monolithic fiber dual-readout calorimeter (o1, v01) is added.
